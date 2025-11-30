@@ -1,7 +1,7 @@
 ## Ency - Smart Power Automation
 
 <p align="center" style="margin-top: 2rem"><br>
-  <img style="background-radius: 50%" src="https://raw.githubusercontent.com/pranava-mohan/ency/master/public/logo.svg" width="22%"/>
+  <img style="border-radius: 16%" src="https://raw.githubusercontent.com/pranava-mohan/ency/master/assets/logo.svg" width="22%"/>
 </p>
 
 Ency is a full-stack IoT solution that automates room power using Bluetooth Low Energy (BLE) proximity detection and motion sensing. It consists of a React Native (Expo) mobile app with native Kotlin background services and an Arduino hardware controller.
